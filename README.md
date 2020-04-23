@@ -59,7 +59,7 @@ systemctl restart docker
 ### 安装
 ```shell
 # 克隆项目
-git clone http://134.175.126.203:10080/liangjia/dnmp/dnmp.git
+git clone https://github.com/leangjia/dnmp-glpi.git
 # 进入目录
 cd dnmp
 # 容器编排
@@ -81,7 +81,7 @@ Creating cgi ...
 Creating proxy ...
 ```
 访问IP, 效果图如下    
-![效果图](http://134.175.126.203:10080/liangjia/dnmp/dnmp.png)
+![效果图](https://github.com/leangjia/dnmp-glpi/dnmp.png)
 
 ### 学习文档
 - [如何新建一个站点](docs/如何新建一个站点.md)
